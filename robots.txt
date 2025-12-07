@@ -1,0 +1,9 @@
+# Robots.txt for https://contentegator.github.io/
+
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Allow: /
+
+# Sitemap location
+Sitemap: https://contentegator.github.io/links/sitemap.xml
